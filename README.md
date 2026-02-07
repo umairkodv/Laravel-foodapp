@@ -1,4 +1,4 @@
-<h1><b>Lunchbox (Foodapp) Complete Management System</b></h1>      
+<h1><b>Lunchbox (Foodapp) Complete Management System</b></h1>       
 
 <h2>Content</h2>
 
